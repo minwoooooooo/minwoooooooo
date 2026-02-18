@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="margin-top: 20px; margin-bottom: 10px;">Minwoo Park</h1>
   
-  <p style="font-size: 1.2em; color: #555; margin-bottom: 20px;"><b>Hardware-Native AI Engineer</b></p>
+  <p style="font-size: 1.2em; color: #555; margin-bottom: 20px;"><b>AI Engineer</b></p>
 
   <p>
     <a href="mailto:minwoo990210@gmail.com">
