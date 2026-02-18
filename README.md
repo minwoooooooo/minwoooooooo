@@ -3,13 +3,13 @@
   <p style="color: #666; margin-bottom: 20px;">Hardware-Native AI Engineer</p>
   
   <p>
-    <b>Physical Hardware + AI Software Integration Specialist</b><br>
+    <b>"Physical Hardware + AI Software Integration"</b><br>
     Field Service Engineer 출신으로 하드웨어와 소프트웨어의 접점을 이해합니다.<br>
-    현재 대용량 데이터 파이프라인 구축과 Vision AI 모델 최적화에 집중하고 있습니다.
+    제한된 리소스 환경에서의 <b>최적화</b>와 <b>안정적인 파이프라인 구축</b>에 집중합니다.
   </p>
 
   <p align="center">
-    <a href="minwoooooooo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:minwoooooooo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
     <a href="https://github.com/minwoooooooo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   </p>
 </div>
@@ -39,49 +39,42 @@
 
 ### 🚀 Featured Projects
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td width="60%" valign="top">
-      <h3 style="margin-top: 0;">Traffic Law Violation Detection System</h3>
-      <p><b>Role: Project Manager (PM) & AI Engineer</b></p>
-      <p>교통법규 위반(신호위반, 중앙선 침범 등) 차량을 실시간 탐지 및 자동 신고하는 AI 시스템입니다.</p>
-      <p><b>Key Contributions</b></p>
-      <ul>
-        <li><b>Collaboration:</b> Jira 기반 Agile 스프린트 관리 및 파트별 기술 인터페이스 조율</li>
-        <li><b>Architecture:</b> 하드웨어 리소스 한계 극복을 위한 분산 처리(Edge-Server) 설계</li>
-        <li><b>Data Pipeline:</b> 300GB 대규모 주행 데이터 전처리 및 학습 파이프라인 구축 (Docker)</li>
-        <li><b>Modeling:</b> 차량 객체 및 차선 탐지(Lane Detection)를 위한 Deep Learning 모델 최적화</li>
-      </ul>
-      <p>👉 <a href="https://github.com/minwoooooooo/프로젝트_레포지토리_링크"><b>View Repository</b></a></p>
-    </td>
-    <td width="40%" valign="top">
-      <br>
-      <img src="20260213_RPA.gif" width="100%" alt="Traffic System Demo" style="border-radius: 10px;">
-    </td>
-  </tr>
-</table>
+<h3 style="margin-bottom: 5px;">🚘 AI Traffic Violation Detection System (Safe Road)</h3>
+<p style="color: #666; margin-top: 0;"><i>Real-time Traffic Law Enforcement Solution | PM & AI Engineer (Team of 5)</i></p>
 
-<br>
+<img src="20260213_RPA.gif" width="100%" style="border-radius: 8px; margin-bottom: 15px;">
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td width="60%" valign="top">
-      <h3 style="margin-top: 0;">VGA Price Vision (AI Price Forecasting)</h3>
-      <p><b>Role: Solo Developer</b></p>
-      <p>그래픽카드 시세 데이터를 수집하여 미래 가격을 예측하는 시계열 분석 프로젝트입니다.</p>
-      <p><b>Key Contributions</b></p>
-      <ul>
-        <li><b>Time-Series Analysis:</b> 3년 치 시세 데이터 크롤링 및 LSTM/CNN-LSTM 모델링</li>
-        <li><b>Visualization:</b> Streamlit 기반 인터랙티브 대시보드 구축 및 성능 지표 시각화</li>
-      </ul>
-      <p>👉 <a href="https://github.com/minwoooooooo/프로젝트_레포지토리_링크"><b>View Repository</b></a></p>
-    </td>
-    <td width="40%" valign="top">
-      <br>
-      <img src="여기에_GIF_링크를_넣으세요.gif" width="100%" alt="VGA Project Demo" style="border-radius: 10px;">
-    </td>
-  </tr>
-</table>
+<p>
+  <b>교통법규 위반(신호위반, 중앙선 침범, 꼬리물기 등) 차량을 실시간으로 탐지하고 자동으로 신고하는 시스템입니다.</b><br>
+  Raspberry Pi(Edge)와 PC(Server)를 연동하여 하드웨어 자원의 한계를 극복하고 실시간성을 확보했습니다.
+</p>
+
+<ul>
+  <li><b>Architecture Optimization:</b> 라즈베리파이의 연산 한계를 해결하기 위해 <b>Edge(촬영/송출) - Server(AI 추론)</b> 분산 처리 구조 설계</li>
+  <li><b>AI Modeling:</b> AI-Hub의 300GB 주행 데이터 학습. <b>YOLOv8 & Detectron2</b>를 활용한 차량 객체 및 차선(Lane) 정밀 인식</li>
+  <li><b>Environment:</b> <b>Docker</b> 컨테이너 기반으로 개발/배포 환경을 통일하여 라이브러리 의존성 문제 해결</li>
+  <li><b>Management:</b> <b>Jira</b>를 도입하여 Agile 스프린트 방식으로 개발 일정 관리 및 기술 이슈 트래킹</li>
+</ul>
+<p>👉 <a href="https://github.com/minwoooooooo/프로젝트_레포지토리_링크"><b>View Repository</b></a></p>
+
+<br><br>
+
+<h3 style="margin-bottom: 5px;">📈 VGA Price Vision</h3>
+<p style="color: #666; margin-top: 0;"><i>AI-based Graphic Card Price Forecasting | Solo Developer</i></p>
+
+<img src="여기에_VGA_GIF_파일명.gif" width="100%" style="border-radius: 8px; margin-bottom: 15px;">
+
+<p>
+  <b>그래픽카드 시세 데이터를 수집/분석하여 미래 가격 변동을 예측하는 시계열 분석 프로젝트입니다.</b><br>
+  구매 적기를 판단할 수 있는 데이터 기반의 지표를 시각화하여 제공합니다.
+</p>
+
+<ul>
+  <li><b>Time-Series Analysis:</b> 3년 치 온라인 시세 데이터 크롤링 및 전처리 (Pandas)</li>
+  <li><b>Deep Learning:</b> <b>LSTM / CNN-LSTM</b> 모델을 설계하여 시세 변동 패턴 학습 및 예측</li>
+  <li><b>Visualization:</b> <b>Streamlit</b>을 활용해 예측 그래프와 성능 지표를 직관적인 대시보드로 구현</li>
+</ul>
+<p>👉 <a href="https://github.com/minwoooooooo/프로젝트_레포지토리_링크"><b>View Repository</b></a></p>
 
 <br/>
 
@@ -92,9 +85,9 @@
 <b>Koh Young Technology (고영테크놀러지)</b><br>
 <i>Field Service Engineer | 2023.02 ~ 2024.06</i>
 <ul>
-  <li>SPI/AOI 정밀 3D 검사 장비 셋업 및 소프트웨어 파라미터 최적화</li>
-  <li>고객사 제조 환경별 커스텀 캘리브레이션 및 Vision/SW 팀 연계 트러블슈팅</li>
-  <li>스마트팩토리 데이터 연동 및 통신 프로토콜 분석 지원</li>
+  <li><b>장비 셋업 & 최적화:</b> SPI/AOI 정밀 3D 검사 장비 셋업 및 제조 환경별 S/W 파라미터 튜닝</li>
+  <li><b>기술 지원 & 협업:</b> 고객사 기술 이슈(트러블슈팅) 해결 및 본사 Vision/SW 팀과 연계한 SW 업데이트 배포 검증</li>
+  <li><b>데이터 연동:</b> 스마트팩토리 구축을 위한 장비-서버 간 통신 프로토콜 분석 및 데이터 파이프라인 연동 지원</li>
 </ul>
 
 <br/>
