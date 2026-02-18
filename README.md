@@ -50,7 +50,7 @@
 <img src="20260213_RPA.gif" width="100%" style="border-radius: 8px; margin-bottom: 15px;">
 
 <p>
-  <b>교통법규 위반(신호위반, 중앙선 침범, 꼬리물기 등) 차량을 실시간으로 탐지하고 자동으로 신고하는 시스템입니다.</b><br>
+  <b>교통법규 위반(신호위반, 중앙선 침범, 진로변경위반) 차량을 실시간으로 탐지하고 자동으로 안전신문고에 신고하는 시스템</b><br>
   Raspberry Pi(Edge)와 PC(Server)를 연동하여 하드웨어 자원의 한계를 극복하고 실시간성을 확보했습니다.
 </p>
 
@@ -60,7 +60,7 @@
   <li><b>Environment:</b> <b>Docker</b> 컨테이너 기반으로 개발/배포 환경을 통일하여 라이브러리 의존성 문제 해결</li>
   <li><b>Management:</b> <b>Jira</b>를 도입하여 Agile 스프린트 방식으로 개발 일정 관리 및 기술 이슈 트래킹</li>
 </ul>
-<p>👉 <a href="https://github.com/minwoooooooo/프로젝트_레포지토리_링크"><b>View Repository</b></a></p>
+<p>👉 <a href="https://github.com/minwoooooooo/FinalProject_webApplication"><b>View Repository</b></a></p>
 
 <br><br>
 
@@ -70,16 +70,16 @@
 <img src="20251218_VGA 시세 예측기.gif" width="100%" style="border-radius: 8px; margin-bottom: 15px;">
 
 <p>
-  <b>그래픽카드 시세 데이터를 수집/분석하여 미래 가격 변동을 예측하는 시계열 분석 프로젝트입니다.</b><br>
+  <b>그래픽카드 시세 데이터를 수집/분석하여 미래 가격 변동을 예측하는 시계열 분석 프로젝트</b><br>
   구매 적기를 판단할 수 있는 데이터 기반의 지표를 시각화하여 제공합니다.
 </p>
 
 <ul>
-  <li><b>Time-Series Analysis:</b> 3년 치 온라인 시세 데이터 크롤링 및 전처리 (Pandas)</li>
+  <li><b>Time-Series Analysis:</b> 다나와 온라인 시세 데이터 크롤링 및 전처리 (Pandas)</li>
   <li><b>Deep Learning:</b> <b>LSTM / CNN-LSTM</b> 모델을 설계하여 시세 변동 패턴 학습 및 예측</li>
   <li><b>Visualization:</b> <b>Streamlit</b>을 활용해 예측 그래프와 성능 지표를 직관적인 대시보드로 구현</li>
 </ul>
-<p>👉 <a href="https://github.com/minwoooooooo/프로젝트_레포지토리_링크"><b>View Repository</b></a></p>
+<p>👉 <a href="https://github.com/minwoooooooo/vga-price-forecaster"><b>View Repository</b></a></p>
 
 <br/>
 
