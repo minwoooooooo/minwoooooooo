@@ -50,10 +50,10 @@
 
 <img src="20260213_RPA.gif" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
 
-** Overview**
+** Overview **
 > 교통법규 위반(신호위반, 중앙선 침범 등) 차량을 실시간으로 탐지하고, 위반 증거 영상을 생성하여 자동 신고하는 무인 단속 시스템입니다.
 
-** Key Contributions**
+** Key Contributions **
 * <b>Architecture:</b> 라즈베리파이(Edge)와 PC(Server) 간 **분산 처리 구조** 설계로 연산 부하 해결
 * <b>AI Modeling:</b> **YOLOv8** & **Detectron2** 기반 객체/차선 정밀 인식 (AI-Hub 300GB 학습)
 * <b>DevOps:</b> **Docker** 컨테이너 환경 구축 및 **Jira** 기반 애자일 프로세스 관리
@@ -105,8 +105,7 @@
 
 ### 💼 Experience
 
-<b>Koh Young Technology (고영테크놀러지)</b> <br> 
-<i>Field Service Engineer | 2023.02 ~ 2024.06</i>
+<b>Koh Young Technology (고영테크놀러지) | Field Service Engineer | 2023.02 ~ 2024.06</b><br> 
 * SPI/AOI 정밀 3D 검사 장비 셋업 및 제조 환경별 S/W 파라미터 최적화
 * 고객사 기술 이슈 트러블슈팅 및 본사 개발팀(Vision/SW)과 협업하여 업데이트 배포 검증
 * 스마트팩토리 구축을 위한 장비-서버 간 통신 프로토콜 분석 및 데이터 연동 지원
