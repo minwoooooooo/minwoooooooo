@@ -10,10 +10,9 @@
 
   <p align="center">
     <a href="mailto:minwoo990210@gmail.com">
-      <img src="https://img.shields.io/badge/minwoooooooo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/minwoo990210@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
     </a>
-    <br>
-    <a href="https://github.com/minwoooooooo">
+    &nbsp;&nbsp; <a href="https://github.com/minwoooooooo">
       <img src="https://img.shields.io/badge/github.com/minwoooooooo-181717?style=flat-square&logo=github&logoColor=white"/>
     </a>
   </p>
@@ -27,6 +26,11 @@
 
 **AI & Vision**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black"> <img src="https://img.shields.io/badge/Detectron2-000000?style=flat-square&logo=meta&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+
+<br>
+
+**Frontend**<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
 
 <br>
 
@@ -60,8 +64,14 @@
   <li><b>Environment:</b> <b>Docker</b> 컨테이너 기반으로 개발/배포 환경을 통일하여 라이브러리 의존성 문제 해결</li>
   <li><b>Management:</b> <b>Jira</b>를 도입하여 Agile 스프린트 방식으로 개발 일정 관리 및 기술 이슈 트래킹</li>
 </ul>
-<p>👉 <a href="https://github.com/minwoooooooo/FinalProject_Aiplatform"><b>AI Model Repository</b></a></p>
-<p>👉 <a href="https://github.com/minwoooooooo/FinalProject_webApplication"><b>UI/UX Repository</b></a></p>
+
+<p>
+  👉 <a href="https://github.com/minwoooooooo/FinalProject_Aiplatform"><b>AI Model Repository</b></a> &nbsp;|&nbsp; 
+  👉 <a href="https://github.com/minwoooooooo/FinalProject_webApplication"><b>UI/UX Repository</b></a>
+</p>
+<p>
+  💾 <a href="[발표자료_파일_링크_넣으세요]"><b>발표자료 다운로드 (PPT)</b></a>
+</p>
 
 <br><br>
 
@@ -80,7 +90,13 @@
   <li><b>Deep Learning:</b> <b>LSTM / CNN-LSTM</b> 모델을 설계하여 시세 변동 패턴 학습 및 예측</li>
   <li><b>Visualization:</b> <b>Streamlit</b>을 활용해 예측 그래프와 성능 지표를 직관적인 대시보드로 구현</li>
 </ul>
-<p>👉 <a href="https://github.com/minwoooooooo/vga-price-forecaster"><b>View Repository</b></a></p>
+
+<p>
+  👉 <a href="https://github.com/minwoooooooo/vga-price-forecaster"><b>View Repository</b></a>
+</p>
+<p>
+  💾 <a href="[발표자료_파일_링크_넣으세요]"><b>발표자료 다운로드 (PPT)</b></a>
+</p>
 
 <br/>
 
@@ -97,5 +113,3 @@
 </ul>
 
 <br/>
-
-</div>
