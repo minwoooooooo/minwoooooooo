@@ -9,7 +9,7 @@
   </p>
 
   <p align="center">
-    <a href="mailto:minwoooooooo@gmail.com">
+    <a href="mailto:minwoo990210@gmail.com">
       <img src="https://img.shields.io/badge/minwoooooooo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
     </a>
     <br>
@@ -42,7 +42,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <h3 style="margin-bottom: 5px;">🚘 AI Traffic Violation Detection System (Safe Road)</h3>
 <p style="color: #666; margin-top: 0;"><i>Real-time Traffic Law Enforcement Solution | PM & AI Engineer (Team of 5)</i></p>
@@ -85,7 +85,7 @@
 
 ---
 
-### 💼 Experience
+### 경력사항
 
 <b>Koh Young Technology (고영테크놀러지)</b><br>
 <i>Field Service Engineer | 2023.02 ~ 2024.06</i>
