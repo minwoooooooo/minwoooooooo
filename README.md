@@ -50,15 +50,15 @@
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 <ul>
   <li><b>Edge (Raspberry Pi):</b> 영상 촬영 및 실시간 스트리밍 송출 담당 (발열 제어 및 리소스 최적화)</li>
-  <li><b>Server (PC):</b> <b>FastAPI</b>를 활용한 고성능 AI 추론 서버 구축 및 <b>Spring Boot</b> 기반의 비즈니스 로직(신고 데이터 처리) 연동</li>
-  <li><b>Stability:</b> <b>Docker</b> 컨테이너 기반으로 환경을 분리하여 하드웨어 의존성 문제 해결</li>
+  <li><b>Server (PC):</b> <b>FastAPI</b>를 활용한 AI 추론 서버 구축 및 <b>Spring Boot</b> 기반의 비즈니스 로직(신고 데이터 처리) 연동</li>
+  <li><b>Stability:</b> <b>Docker</b> 컨테이너 기반의 가상 환경을 구축하여 하드웨어 의존성 문제 해결</li>
 </ul>
 
 **2. AI Vision Pipeline** <br>
 <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black"> <img src="https://img.shields.io/badge/Detectron2-000000?style=flat-square&logo=meta&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
 <ul>
-  <li><b>Detection:</b> AI-Hub 주행 데이터(300GB)를 학습한 <b>YOLOv8</b> 모델로 차량 객체 정밀 탐지</li>
-  <li><b>Segmentation:</b> <b>Detectron2</b> 및 투영 변환(Perspective Transform) 기술을 적용하여 차선 침범 여부 정밀 판독</li>
+  <li><b>Detection:</b> AI-Hub 대용량 위반 차량 이미지 데이터(300GB)를 학습한 모델로 위반 종류(신호위반, 중앙선 침범 등) 분류</li>
+  <li><b>Segmentation:</b> <b>Detectron2</b> 및 투영 변환(Perspective Transform) 기술을 적용하여 차량 객체 및 도로 시설물 정밀 탐지</li>
 </ul>
 
 **3. Web Interface & Management** <br>
