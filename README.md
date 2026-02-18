@@ -60,7 +60,8 @@
   <li><b>Environment:</b> <b>Docker</b> 컨테이너 기반으로 개발/배포 환경을 통일하여 라이브러리 의존성 문제 해결</li>
   <li><b>Management:</b> <b>Jira</b>를 도입하여 Agile 스프린트 방식으로 개발 일정 관리 및 기술 이슈 트래킹</li>
 </ul>
-<p>👉 <a href="https://github.com/minwoooooooo/FinalProject_webApplication"><b>View Repository</b></a></p>
+<p>👉 <a href="https://github.com/minwoooooooo/FinalProject_Aiplatform"><b>AI Model Repository</b></a></p>
+<p>👉 <a href="https://github.com/minwoooooooo/FinalProject_webApplication"><b>UI/UX Repository</b></a></p>
 
 <br><br>
 
