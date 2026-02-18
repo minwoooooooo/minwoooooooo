@@ -49,7 +49,7 @@
 **1. Edge-Server Distributed Architecture** <br>
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 <ul>
-  <li><b>Edge (Raspberry Pi):</b> 영상 촬영 및 실시간 스트리밍 송출 담당 (발열 제어 및 리소스 최적화)</li>
+  <li><b>Edge (Raspberry Pi):</b> 영상 촬영 및 녹화 영상 AWS 클라우드 전송 및 관리</li>
   <li><b>Server (PC):</b> <b>FastAPI</b>를 활용한 AI 추론 서버 구축 및 <b>Spring Boot</b> 기반의 비즈니스 로직(신고 데이터 처리) 연동</li>
   <li><b>Stability:</b> <b>Docker</b> 컨테이너 기반의 가상 환경을 구축하여 하드웨어 의존성 문제 해결</li>
 </ul>
