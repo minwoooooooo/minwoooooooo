@@ -39,7 +39,7 @@
 
 ### 🚀 Featured Projects
 
-<table width="100%" style="border-collapse: collapse; margin-top: 20px;">
+<table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="60%" valign="top">
       <h3 style="margin-top: 0;">Traffic Law Violation Detection System</h3>
@@ -56,7 +56,7 @@
     </td>
     <td width="40%" valign="top">
       <br>
-      <img src="여기에_GIF_링크를_넣으세요.gif" width="100%" alt="Traffic System Demo" style="border-radius: 10px;">
+      <img src="https://github.com/user-attachments/assets/실제_GIF_주소_예시.gif" width="100%" alt="Traffic System Demo" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
