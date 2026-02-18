@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="[프로필_사진.jpg]" width="180" height="180" style="border-radius: 50%; object-fit: cover;">
-  
   <h1 style="margin-top: 20px; margin-bottom: 10px;">Minwoo Park</h1>
   
   <p style="font-size: 1.2em; color: #555; margin-bottom: 20px;"><b>Hardware-Native AI Engineer</b></p>
@@ -39,17 +37,17 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <h3 style="border-bottom: 2px solid #eee; padding-bottom: 10px;">🚘 AI Traffic Violation Detection System</h3>
 <p style="color: #666; margin-top: -15px;"><i>Role: Project Manager (PM) & AI Engineer | Team of 5</i></p>
 
 <img src="20260213_RPA.gif" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
 
-**📌 Overview**
+** Overview**
 > 교통법규 위반(신호위반, 중앙선 침범 등) 차량을 실시간으로 탐지하고, 위반 증거 영상을 생성하여 안전신문고에 자동 신고하는 무인 단속 시스템
 
-**🔧 Key Features & Tech Stack**
+** Key Features & Tech Stack**
 
 **1. Edge-Server Distributed Architecture** <br>
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
@@ -89,15 +87,15 @@
 
 <br>
 
-<h3 style="border-bottom: 2px solid #eee; padding-bottom: 10px;">📈 AI-based VGA Price Prediction</h3>
+<h3 style="border-bottom: 2px solid #eee; padding-bottom: 10px;"> AI-based VGA Price Prediction</h3>
 <p style="color: #666; margin-top: -15px;"><i>Role: Solo Developer (Full-Stack)</i></p>
 
 <img src="20251218_VGA 시세 예측기.gif" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
 
-**📌 Overview**
+** Overview**
 > 그래픽카드 시세 데이터를 수집 및 분석하여, 향후 가격 변동을 예측하고 최적의 구매 시기를 제안하는 시계열 분석 솔루션
 
-**🔧 Key Features & Tech Stack**
+** Key Features & Tech Stack**
 
 **1. Data Engineering & Modeling** <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
@@ -128,7 +126,7 @@
 
 ---
 
-### 💼 Experience
+###  Experience
 
 <b>Koh Young Technology (고영테크놀러지)</b> <br> 
 <i>Field Service Engineer | 2023.02 ~ 2024.06</i>
