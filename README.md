@@ -56,7 +56,7 @@
     </td>
     <td width="40%" valign="top">
       <br>
-      <img src="https://github.com/user-attachments/assets/실제_GIF_주소_예시.gif" width="100%" alt="Traffic System Demo" style="border-radius: 10px;">
+      <img src="https://github.com/minwoooooooo/minwoooooooo/issues/1#issue-3958557856" width="100%" alt="Traffic System Demo" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
