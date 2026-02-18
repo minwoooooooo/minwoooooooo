@@ -62,7 +62,7 @@
 <h3 style="margin-bottom: 5px;">📈 VGA Price Vision</h3>
 <p style="color: #666; margin-top: 0;"><i>AI-based Graphic Card Price Forecasting | Solo Developer</i></p>
 
-<img src="여기에_VGA_GIF_파일명.gif" width="100%" style="border-radius: 8px; margin-bottom: 15px;">
+<img src="20251218_VGA 시세 예측기.gif" width="100%" style="border-radius: 8px; margin-bottom: 15px;">
 
 <p>
   <b>그래픽카드 시세 데이터를 수집/분석하여 미래 가격 변동을 예측하는 시계열 분석 프로젝트입니다.</b><br>
