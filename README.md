@@ -70,7 +70,7 @@
   👉 <a href="https://github.com/minwoooooooo/FinalProject_webApplication"><b>UI/UX Repository</b></a>
 </p>
 <p>
-  💾 <a href="[발표자료_파일_링크_넣으세요]"><b>발표자료 다운로드 (PPT)</b></a>
+  💾 <a href="교통법규 위반 차량 자동 신고 시스템.pptx"><b>발표자료 다운로드 (PPT)</b></a>
 </p>
 
 <br><br>
@@ -95,7 +95,7 @@
   👉 <a href="https://github.com/minwoooooooo/vga-price-forecaster"><b>View Repository</b></a>
 </p>
 <p>
-  💾 <a href="[발표자료_파일_링크_넣으세요]"><b>발표자료 다운로드 (PPT)</b></a>
+  💾 <a href="AI 기반 VGA 분석 예측 시스템.hwp"><b>발표자료 다운로드 (HWP)</b></a>
 </p>
 
 <br/>
