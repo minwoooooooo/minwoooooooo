@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="[프로필_사진.jpg]" width="180" height="180" style="border-radius: 50%; object-fit: cover;">
-  
+<div align="center"> 
   <h1 style="margin-top: 20px; margin-bottom: 10px;">Minwoo Park</h1>
   
   <p style="font-size: 1.2em; color: #555;"><b>Hardware-Native AI Engineer</b></p>
