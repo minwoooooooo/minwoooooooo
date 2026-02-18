@@ -66,9 +66,18 @@
 </ul>
 
 <p>
+  <b>[GitHub Repository]</b><br>
+</p>
+
+<p>
   👉 <a href="https://github.com/minwoooooooo/FinalProject_Aiplatform"><b>AI Model Repository</b></a> &nbsp;|&nbsp; 
   👉 <a href="https://github.com/minwoooooooo/FinalProject_webApplication"><b>UI/UX Repository</b></a>
 </p>
+
+<p>
+  <b>[첨부자료]</b><br>
+</p>
+
 <p>
   💾 <a href="교통법규 위반 차량 자동 신고 시스템.pptx"><b>발표자료 다운로드 (PPT)</b></a>
 </p>
@@ -92,7 +101,14 @@
 </ul>
 
 <p>
+  <b>[GitHub Repository]</b><br>
+</p>
+<p>
   👉 <a href="https://github.com/minwoooooooo/vga-price-forecaster"><b>View Repository</b></a>
+</p>
+
+<p>
+  <b>[첨부자료]</b><br>
 </p>
 <p>
   💾 <a href="AI 기반 VGA 분석 예측 시스템.hwp"><b>발표자료 다운로드 (HWP)</b></a>
