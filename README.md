@@ -52,10 +52,10 @@
 
 <img src="20260213_RPA.gif" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
 
-**📌 Overview**
+** Overview**
 > 교통법규 위반(신호위반, 중앙선 침범 등) 차량을 실시간으로 탐지하고, 위반 증거 영상을 생성하여 자동 신고하는 무인 단속 시스템입니다.
 
-**🔧 Key Contributions**
+** Key Contributions**
 * <b>Architecture:</b> 라즈베리파이(Edge)와 PC(Server) 간 **분산 처리 구조** 설계로 연산 부하 해결
 * <b>AI Modeling:</b> **YOLOv8** & **Detectron2** 기반 객체/차선 정밀 인식 (AI-Hub 300GB 학습)
 * <b>DevOps:</b> **Docker** 컨테이너 환경 구축 및 **Jira** 기반 애자일 프로세스 관리
@@ -69,8 +69,9 @@
   </a>
 </p>
 <p>
-  <a href="1조_최종보고.pdf">
-    <img src="https://img.shields.io/badge/Download-Project_Presentation_(PDF)-B7472A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  <a href="교통법규 위반 차량 자동 신고 시스템.pptx
+">
+    <img src="https://img.shields.io/badge/Download-Project_Presentation_(PPTX)-B7472A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
 
@@ -81,11 +82,11 @@
 
 <img src="20251218_VGA 시세 예측기.gif" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
 
-**📌 Overview**
+** Overview**
 > 그래픽카드 시세 데이터를 수집 및 분석하여, 향후 가격 변동을 예측하고 최적의 구매 시기를 제안하는 시계열 분석 프로젝트입니다.
 
-**🔧 Key Contributions**
-* <b>Full-Stack:</b> 데이터 크롤링부터 전처리, 모델링, 웹 시각화까지 전 과정 단독 수행
+** Key Contributions**
+* <b>Dataset:</b> 데이터 크롤링부터 전처리, 모델링, 웹 시각화까지 전 과정 단독 수행
 * <b>Modeling:</b> **LSTM / CNN-LSTM** 아키텍처 설계를 통한 시세 변동 패턴 학습
 * <b>Visualization:</b> **Streamlit** 활용, 예측 결과 및 성능 지표(RMSE) 대시보드 구현
 
