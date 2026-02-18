@@ -98,6 +98,4 @@
 
 <br/>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=minwoooooooo&show_icons=true&theme=graywhite&hide_border=true" height="150" alt="stats graph" />
 </div>
