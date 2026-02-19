@@ -108,6 +108,7 @@
   <li><b>Analysis:</b> 모델별 예측 결과 그래프 비교 및 성능 지표(RMSE) 시각화 제공</li>
 </ul>
 
+**3. Additional Materials**
 <p style="margin-top: 15px;">
   <a href="https://github.com/minwoooooooo/vga-price-forecaster">
     <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
