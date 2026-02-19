@@ -84,10 +84,13 @@
 
 <br>
 
+**4. Additional Materials** <br>
+
 <h3 style="border-bottom: 2px solid #eee; padding-bottom: 10px;"> AI-based VGA Price Prediction</h3>
 <p style="color: #666; margin-top: -15px;"><i>Role: Solo Developer (Full-Stack)</i></p>
 
 <img src="20251218_VGA 시세 예측기.gif" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
+</br>
 
 > 그래픽카드 시세 데이터를 수집 및 분석하여, 향후 가격 변동을 예측하고 최적의 구매 시기를 제안하는 시계열 분석 솔루션
 
