@@ -68,6 +68,8 @@
   <li><b>Collaboration:</b> <b>Jira</b> 애자일 스프린트 도입으로 개발 일정 관리 및 이슈 트래킹</li>
 </ul>
 
+
+**4. Additional Materials** 
 <p style="margin-top: 15px;">
   <a href="https://github.com/minwoooooooo/FinalProject_Aiplatform">
     <img src="https://img.shields.io/badge/GitHub-AI_Model_Repo-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -84,13 +86,11 @@
 
 <br>
 
-**4. Additional Materials** <br>
-
 <h3 style="border-bottom: 2px solid #eee; padding-bottom: 10px;"> AI-based VGA Price Prediction</h3>
 <p style="color: #666; margin-top: -15px;"><i>Role: Solo Developer (Full-Stack)</i></p>
 
 <img src="20251218_VGA 시세 예측기.gif" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
-</br>
+
 
 > 그래픽카드 시세 데이터를 수집 및 분석하여, 향후 가격 변동을 예측하고 최적의 구매 시기를 제안하는 시계열 분석 솔루션
 
